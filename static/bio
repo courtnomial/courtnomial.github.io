@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Courtney Dantzler</title>
+        <meta name="description" content="Courtney Dantzler." />
+        <meta name="author" content="Courtney Dantzler" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <link type="text/css" rel="stylesheet" href="main.css">
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-55298318-1', 'auto');
+          ga('send', 'pageview');
+        </script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Courtney Dantzler</h1>
+
+            <ul class="nav">
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="bio.html">Bio</a>
+                </li>
+                <li>
+                    <a href="music.html">Creative Samples</a>
+                </li>
+                <li>
+                    <a href="ideas.html">Ideas</a>
+                </li>
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="main-content">
+
+            <div class="program-note">
+                <h1>Bio</h1>
+            <p>
+                Courtney Dantzler, a native of Jacksonville, Florida, recently graduated from Duke University, majoring in Music and Computer Science. She currently studies organ, jazz piano, and composition, but throughout her time at Duke she has also explored voice, musicology, and music technology. In the spring of 2022, Courtney spent a semester abroad in Vienna, Austria. What excites her academically is the organization and dissemination of information, and what constitutes the “soul” in music.
+            </p>
+            <p>
+                She is
+            </p>
+            <p>
+                She is
+            </p>
+            <p>
+                She is
+            </p>
+        </div>
+
+    </body>
+
+</html>
