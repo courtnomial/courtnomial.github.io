@@ -1,4 +1,11 @@
-# courtney dantzler
+# Portfolio Site
+
+Presenting my creative work so far as a musician and tech worker.
+View live at www.courtnomial.github.io
+
+Reflecting on my time in undergrad.
+
+What's next?
 
 courtney dantzler
 
